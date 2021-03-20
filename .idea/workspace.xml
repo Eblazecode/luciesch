@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64deac61-9a38-4fb6-bbb0-511b9a34fe5f" name="Default Changelist" comment="" />
+    <list default="true" id="64deac61-9a38-4fb6-bbb0-511b9a34fe5f" name="Default Changelist" comment="lucie school web 1.0">
+      <change afterPath="$PROJECT_DIR$/LSI/form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSI/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/LSI/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSI/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/LSI/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +15,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1nVzGCVh5RLTwOlxJjcSnOkGxb8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/LSI" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,10 +64,40 @@
       <workItem from="1614949440983" duration="3000" />
       <workItem from="1614949518176" duration="70000" />
       <workItem from="1615842159282" duration="1049000" />
+      <workItem from="1616198572232" duration="1940000" />
+      <workItem from="1616200595255" duration="1633000" />
+      <workItem from="1616202381496" duration="1786000" />
+      <workItem from="1616204205506" duration="1791000" />
+      <workItem from="1616207047544" duration="1917000" />
+      <workItem from="1616209003897" duration="1793000" />
+      <workItem from="1616210946251" duration="1772000" />
     </task>
+    <task id="LOCAL-00001" summary="lucie school web 1.0">
+      <created>1616199229916</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616199229916</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lucie school web 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="lucie school web 1.0" />
   </component>
 </project>

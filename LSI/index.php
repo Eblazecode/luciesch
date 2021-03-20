@@ -92,19 +92,21 @@
                 <a class="icon icon-lg icon-top bg-theme-colored2 icon-rounded icon-border-effect effect-rounded" href="#">
                   <i class="fa fa-book text-white"></i>
                 </a>
-                <h3 class="icon-box-title mt-50 text-white">Online Course</h3>
-                <p class="text-white mb-20">Lorem ipsum dolor sit amet adipisi elit molestias non nulla placeat odio dolor amet  dicta alias.</p>
+                <h3 class="icon-box-title mt-50 text-white">e-Learning</h3>
+                <p class="text-white mb-20">We are utilizing electronic technologies
+                    to access educational curriculum outside of a traditional classroom and
+                    for virtual classes to better engage our student for the best.</p>
               </div>
             </div>
             <div class="col-md-4">
               <div class="icon-box text-center p-40 mb-sm-50 border-2px border-theme-colored2" data-bg-img="images/happypupils.png">
                 <div>
                 <span class="typed-text-carousel font-20 text-white" data-speed="50" data-back_delay="600" data-loop="true">
-                <span class="">Welcome To StudyPro</span>
-                <span class="">Admission for Spring</span>
+                <span class="">Welcome To Lucie Schools</span>
+                <span class="">A launch pad for academic greatness</span>
                 </span>
-                <h2 class="font-54 text-white">40% Off</h2>
-                <a href="#" class="btn btn-default text-theme-colored mt-5 mb-10">Signup Now</a>
+                <h2 class="font-54 text-white"> Admission </h2>
+                <a href="#" class="btn btn-default text-theme-colored mt-5 mb-10">Apply</a>
                 </div>
               </div>
             </div>
@@ -113,8 +115,9 @@
                 <a class="icon icon-lg icon-top bg-theme-colored2 icon-rounded icon-border-effect effect-rounded" href="#">
                   <i class="fa fa-user text-white"></i>
                 </a>
-                <h3 class="icon-box-title mt-50 text-white">Expart Teachers</h3>
-                <p class="text-white mb-20">Lorem ipsum dolor sit amet adipisi elit molestias non nulla placeat odio dolor amet  dicta alias.</p>
+                <h3 class="icon-box-title mt-50 text-white">Professional Teachers</h3>
+                <p class="text-white mb-20"> We are not compromising on the quality of education that's
+                captured in our vision and our teachers are aligned to strict professionalism in delivery </p>
               </div>
             </div>
           </div>
@@ -157,9 +160,7 @@
                               <div class="col-md-12">
                                   <h2 class="text-uppercase line-bottom-double-line-centered mt-0">Our
                                       <span class="text-theme-colored2">Classes</span></h2>
-                                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                      Rem autem voluptatem obcaecati! <br>ipsum dolor sit
-                                      Rem autem voluptatem obcaecati</p>
+
                               </div>
                           </div>
                       </div>
@@ -217,7 +218,8 @@
                           <div class="event media sm-maxwidth400 border-bottom mt-5 mb-0 pt-10 pb-15">
                               <div class="row">
                                   <div class="col-xs-2 col-md-3 pr-0">
-                                      <div class="event-date text-center bg-theme-colored border-1px p-0 pt-10 pb-10 sm-custom-style">
+                                      <div class="event-date text-center bg-theme-colored border-1px
+                                       p-0 pt-10 pb-10 sm-custom-style">
                                           <ul>
                                               <li class="font-28 text-white font-weight-700">28</li>
                                               <li class="font-18 text-white text-center text-uppercase">Feb</li>
@@ -226,8 +228,9 @@
                                   </div>
                                   <div class="col-xs-9 pr-10 pl-10">
                                       <div class="event-content mt-0 p-5 pb-0 pt-0">
-                                          <h4 class="media-heading font-weight-600"><a href="#">Upcoming Event Title</a></h4>
-                                          <p class="mb-0">psum dolor amet consectetur elitQuas evenie tnemo dicta Ullam namdolor sit amet adipisic evenietneo evenie </p>
+                                          <h4 class="media-heading font-weight-600"><a href="#">Resumption</a></h4>
+                                          <p class="mb-0">psum dolor amet consectetur elitQuas evenie tnemo
+                                              dicta Ullam namdolor sit amet adipisic evenietneo evenie </p>
                                       </div>
                                   </div>
                               </div>
@@ -235,16 +238,17 @@
                           <div class="event media sm-maxwidth400 border-bottom mt-5 mb-0 pt-10 pb-15">
                               <div class="row">
                                   <div class="col-xs-2 col-md-3 pr-0">
-                                      <div class="event-date text-center bg-theme-colored2 border-1px p-0 pt-10 pb-10 sm-custom-style">
+                                      <div class="event-date text-center bg-theme-colored2 border-1px
+                                      p-0 pt-10 pb-10 sm-custom-style">
                                           <ul>
-                                              <li class="font-28 text-white font-weight-700">26</li>
-                                              <li class="font-18 text-white text-center text-uppercase">OCT</li>
+                                              <li class="font-28 text-white font-weight-700">10</li>
+                                              <li class="font-18 text-white text-center text-uppercase">MAY</li>
                                           </ul>
                                       </div>
                                   </div>
                                   <div class="col-xs-9 pr-10 pl-10">
                                       <div class="event-content mt-0 p-5 pb-0 pt-0">
-                                          <h4 class="media-heading font-weight-600"><a href="#">Upcoming Event Title</a></h4>
+                                          <h4 class="media-heading font-weight-600"><a href="#">Mid-term break</a></h4>
                                           <p class="mb-0">psum dolor amet consectetur elitQuas evenie tnemo dicta Ullam namdolo\
                                               r sit amet adipisic evenietneo evenie </p>
                                       </div>
@@ -256,14 +260,14 @@
                                   <div class="col-xs-2 col-md-3 pr-0">
                                       <div class="event-date text-center bg-theme-colored border-1px p-0 pt-10 pb-10 sm-custom-style">
                                           <ul>
-                                              <li class="font-28 text-white font-weight-700">12</li>
-                                              <li class="font-18 text-white text-center text-uppercase">DEC</li>
+                                              <li class="font-28 text-white font-weight-700">5</li>
+                                              <li class="font-18 text-white text-center text-uppercase">JUN</li>
                                           </ul>
                                       </div>
                                   </div>
                                   <div class="col-xs-9 pr-10 pl-10">
                                       <div class="event-content mt-0 p-5 pb-0 pt-0">
-                                          <h4 class="media-heading font-weight-600"><a href="#">Upcoming Event Title</a></h4>
+                                          <h4 class="media-heading font-weight-600"><a href="#">End of term</a></h4>
                                           <p class="mb-0">psum dolor amet consectetur elitQuas
                                               evenie tnemo dicta Ullam namdolor sit
                                               amet adipisic evenietneo evenie </p>
@@ -283,7 +287,8 @@
                                           </div>
                                           <div class="overlay-shade bg-theme-colored"></div>
                                           <div class="video-button"></div>
-                                          <a class="hover-link" data-lightbox-gallery="youtube-video" href="#" title="Youtube Video">We're unique</a>
+                                          <a class="hover-link" data-lightbox-gallery="youtube-video"
+                                             href="#" title="Youtube Video">We're unique</a>
                                       </div>
                                   </div>
                               </div>
@@ -296,12 +301,12 @@
       </section>
 
       <!-- Section: about -->
-    <section class="">
+    <section class="" style="background-color: #400c1b">
       <div class="container pt-sm-0 pb-0">
         <div class="row">
           <div class="col-md-5">
-            <h3 class="text-theme-colored mt-0 mt-sm-30 mb-0">Why lucie school</h3>
-            <h2 class="text-theme-colored2 mt-0">we rising like a phoenix</h2>
+            <h3 class=" mt-0 mt-sm-30 mb-0"  style="color: white">Why lucie school</h3>
+            <h2 class="text-theme-colored2 mt-0">we're rising like a phoenix</h2>
 
               <div class="event media mt-20 mb-10 no-bg no-border">
                 <div class="event-date media-left pull-left flip">
@@ -309,8 +314,9 @@
                 </div>
                 <div class="media-body pl-10">
                   <div class="event-content pull-left flip">
-                    <h3 class="event-title media-heading mt-15"><a href="#">Our Mission</a></h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipi sicing elit Veniam quas, quidem totam</p>
+                    <h3 class="event-title media-heading mt-15" style="color: white"><a  style="color:#ffc83c;" href="#">Spot light</a></h3>
+                    <p  style="color: white">We make room for special children having their learning style and time.
+                        A spot light centered provision for this kind of children wax strong</p>
                   </div>
                 </div>
               </div>
@@ -321,8 +327,9 @@
                 </div>
                 <div class="media-body pl-10">
                   <div class="event-content pull-left flip">
-                    <h3 class="event-title media-heading mt-15"><a href="#">Our Activity</a></h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipi sicing elit Veniam quas, quidem totam</p>
+                    <h3 class="event-title media-heading mt-15"  style="color: white"><a style="color:#ffc83c;" href="#">Innovation </a></h3>
+                    <p  style="color: white">Our vocational and extra curricular inspires our students to stretch their imagination
+                    to be creative </p>
                   </div>
                 </div>
               </div>
@@ -333,26 +340,31 @@
                 </div>
                 <div class="media-body pl-10">
                   <div class="event-content pull-left flip">
-                    <h3 class="event-title media-heading mt-15"><a href="#">Our Vission</a></h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipi sicing elit Veniam quas, quidem totam</p>
+                    <h3 class="event-title media-heading mt-15"  style="color: white">
+                        <a href="#" style="color:#ffc83c;">Academic scholarship</a></h3>
+                    <p  style="color: white">We instil academic discipline in our students to drill out academic
+                    scholarship out their potentials </p>
                   </div>
                 </div>
               </div>
           </div>
           <div class="col-md-7">
             <div class="row">
-              <div class="col-sm-6 mt-40">
+              <div class="col-sm-12 mt-40">
                   <div>
 
 
                       <div class="event media mt-20 mb-10 no-bg no-border">
                           <div class="event-date media-left pull-left flip">
-                              <img src="images/icons/eduiconss-04.png"   width="100px" class="img-circle img-thumbnail mt-5" alt="">
+                              <img src="images/icons/eduiconss-04.png"   width="100px"
+                                   class="img-circle img-thumbnail mt-5" alt="">
                           </div>
                           <div class="media-body pl-10">
                               <div class="event-content pull-left flip">
-                                  <h3 class="event-title media-heading mt-15"><a href="#">Our Mission</a></h3>
-                                  <p>Lorem ipsum dolor sit amet, consectetur adipi sicing elit Veniam quas, quidem totam</p>
+                                  <h3 class="event-title media-heading mt-15"  style="color: white"><a style="color:#ffc83c;" href="#">Pastoral care </a></h3>
+                                  <p  style="color: white"> We employ an ancient model of
+                                      emotional, social and spiritual support that can be found in all
+                                      cultures and traditions to buttress our student moral standard.</p>
                               </div>
                           </div>
                       </div>
@@ -363,8 +375,8 @@
                           </div>
                           <div class="media-body pl-10">
                               <div class="event-content pull-left flip">
-                                  <h3 class="event-title media-heading mt-15"><a href="#">Our Activity</a></h3>
-                                  <p>Lorem ipsum dolor sit amet, consectetur adipi sicing elit Veniam quas, quidem totam</p>
+                                  <h3 class="event-title media-heading mt-15"  style="color: white"><a  style="color:#ffc83c;" href="#">Our Activity</a></h3>
+                                  <p  style="color: white">Lorem ipsum dolor sit amet, consectetur adipi sicing elit Veniam quas, quidem totam</p>
                               </div>
                           </div>
                       </div>
@@ -375,62 +387,76 @@
                           </div>
                           <div class="media-body pl-10">
                               <div class="event-content pull-left flip">
-                                  <h3 class="event-title media-heading mt-15"><a href="#">Our Vission</a></h3>
-                                  <p>Lorem ipsum dolor sit amet, consectetur adipi sicing elit Veniam quas, quidem totam</p>
+                                  <h3 style="color: white" class="event-title media-heading mt-15"><a style="color:#ffc83c;"  href="#">Our Vission</a></h3>
+                                  <p  style="color: white" >Lorem ipsum dolor sit amet, consectetur adipi sicing elit Veniam quas, quidem totam</p>
                               </div>
                           </div>
                       </div>
                   </div>
               </div>
-              <div class="col-sm-6">
-               <div class="p-30 mt-0 bg-theme-colored">
-                <h3 class="title-pattern mt-0"><span class="text-white">Request <span class="text-theme-color-2">Information</span></span></h3>
-                <!-- Appilication Form Start-->
-                <form id="reservation_form" name="reservation_form" class="reservation-form mt-20" method="post" action="http://thememascot.net/demo/personal/s/studypro/j/demo/includes/reservation.php">
-                  <div class="row">
-                    <div class="col-sm-12">
-                      <div class="form-group mb-20">
-                        <input placeholder="Enter Name" type="text" id="reservation_name" name="reservation_name" required="" class="form-control">
-                      </div>
-                    </div>
-                    <div class="col-sm-12">
-                      <div class="form-group mb-20">
-                        <input placeholder="Email" type="text" id="reservation_email" name="reservation_email" class="form-control" required="">
-                      </div>
-                    </div>
-                    <div class="col-sm-12">
-                      <div class="form-group mb-20">
-                        <div class="styled-select">
-                          <select id="person_select" name="person_select" class="form-control" required="">
-                            <option value="">Choose Subject</option>
-                            <option value="1 Person">Software Engineering</option>
-                            <option value="2 Person">Computer Science engineering</option>
-                            <option value="3 Person">Accounting Technologies</option>
-                            <option value="Family Pack">BACHELOR`S DEGREE</option>
-                          </select>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-sm-12">
-                      <div class="form-group">
-                        <textarea placeholder="Enter Message" rows="3" class="form-control required" name="form_message" id="form_message" aria-required="true"></textarea>
-                      </div>
-                    </div>
-                    <div class="col-sm-12">
-                      <div class="form-group mb-0 mt-10">
-                        <input name="form_botcheck" class="form-control" type="hidden" value="">
-                        <button type="submit" class="btn btn-colored btn-theme-colored2 text-white btn-lg btn-block" data-loading-text="Please wait...">Submit Request</button>
-                      </div>
-                    </div>
-                  </div>
-                </form>
-                <!-- Application Form End-->
-                </div>
-              </div>              
+
             </div>
+
+
           </div>
         </div>
       </div>
+        <div class="col-lg-6 col-lg-offset-5">
+            <div class="p-30 mt-0 bg-theme-colored">
+                <h3 class="title-pattern mt-0"><span class="text-white">Admission  <span class="text-theme-color-2">Ongoing</span></span></h3>
+
+                <div class="col-sm-6">
+                    <div class="form-group mb-0 mt-10">
+                        <input name="form_botcheck" class="form-control" type="hidden" value="">
+                        <button type="submit" class="btn btn-colored btn-theme-colored2 text-white btn-lg btn-block" data-loading-text="Please wait...">APPLY</button>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+        <section class="divider  "  data-parallax-ratio="0.7">
+            <div class="container">
+                <div class="section-content text-center">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h6 class="mt-0 mb-50 text-white">We are always ahead
+                                <br> Professional Education for Your Future.</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
+                        <div class="funfact text-center">
+                            <i class="pe-7s-smile mt-5 text-theme-colored2"></i>
+                            <div class="odometer-animate-number text-white font-weight-600 font-48" data-value="5100" data-theme="minimal">0</div>
+                            <h5 class="text-white text-uppercase mb-0">Happy Customers</h5>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
+                        <div class="funfact text-center">
+                            <i class="pe-7s-note2 mt-5 text-theme-colored2"></i>
+                            <div class="odometer-animate-number text-white font-weight-600 font-48" data-value="200" data-theme="minimal">0</div>
+                            <h5 class="text-white text-uppercase mb-0">Approved Courses</h5>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
+                        <div class="funfact text-center">
+                            <i class="pe-7s-users mt-5 text-theme-colored2"></i>
+                            <div class="odometer-animate-number text-white font-weight-600 font-48" data-value="20" data-theme="minimal">0</div>
+                            <h5 class="text-white text-uppercase mb-0">Certified Teachers</h5>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-3 mb-md-0">
+                        <div class="funfact text-center">
+                            <i class="pe-7s-cup mt-5 text-theme-colored2"></i>
+                            <div class="odometer-animate-number text-white font-weight-600 font-48" data-value="600" data-theme="minimal">0</div>
+                            <h5 class="text-white text-uppercase mb-0">Awards Won</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
     </section>
 
     <!-- Section: info-boxes
@@ -692,47 +718,6 @@
     </section>-->
 
     <!-- Divider: Funfact -->
-    <section class="divider parallax layer-overlay overlay-theme-colored-7" data-bg-img="images/bg/bg5.jpg" data-parallax-ratio="0.7">
-      <div class="container">
-        <div class="section-content text-center">
-          <div class="row">
-            <div class="col-md-12">
-              <h2 class="mt-0 mb-50 text-white">We are always ahead <br> Professional Education for Your Future.</h2>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-            <div class="funfact text-center">
-              <i class="pe-7s-smile mt-5 text-theme-colored2"></i>
-                <div class="odometer-animate-number text-white font-weight-600 font-48" data-value="5100" data-theme="minimal">0</div>
-              <h5 class="text-white text-uppercase mb-0">Happy Customers</h5>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-            <div class="funfact text-center">
-              <i class="pe-7s-note2 mt-5 text-theme-colored2"></i>
-                <div class="odometer-animate-number text-white font-weight-600 font-48" data-value="200" data-theme="minimal">0</div>
-              <h5 class="text-white text-uppercase mb-0">Approved Courses</h5>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-            <div class="funfact text-center">
-              <i class="pe-7s-users mt-5 text-theme-colored2"></i>
-                <div class="odometer-animate-number text-white font-weight-600 font-48" data-value="20" data-theme="minimal">0</div>
-              <h5 class="text-white text-uppercase mb-0">Certified Teachers</h5>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-3 mb-md-0">
-            <div class="funfact text-center">
-              <i class="pe-7s-cup mt-5 text-theme-colored2"></i>
-                <div class="odometer-animate-number text-white font-weight-600 font-48" data-value="600" data-theme="minimal">0</div>
-              <h5 class="text-white text-uppercase mb-0">Awards Won</h5>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
 
     <!-- Section: team
     <section id="team">
@@ -952,9 +937,7 @@
           <div class="row">
             <div class="col-md-10 col-md-offset-1">
               <h2 class="text-uppercase line-bottom-double-line-centered mt-0">School <span class="text-theme-colored2">Gallery</span></h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Rem autem voluptatem obcaecati! <br>ipsum dolor sit
-                  Rem autem voluptatem obcaecati</p>
+
             </div>
           </div>
         </div>
@@ -1124,36 +1107,65 @@
       <div class="container pt-60 pb-60">
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
-            <h2 class="line-bottom-double-line-centered text-white text-center mt-0 mb-0">Feedback From Our Students</h2>
+            <h2 class="line-bottom-double-line-centered text-white text-center mt-0 mb-0">Feedback From Our Parents</h2>
               <div class="text-center mb-30"><i class="icon_quotations font-72 text-gray-lightgray"></i></div>
             <div class="owl-carousel-1col" data-dots="true">
               <div class="item">
                 <div class="testimonial-wrapper text-center">
-                  <div class="thumb"><img class="img-thumbnail img-circle" alt="" src="images/testimonials/1.jpg"></div>
+                  <!--<div class="thumb">
+                      <img class="img-thumbnail img-circle" alt=""
+                           src="images/testimonials/1.jpg"></div>-->
                   <div class="content pt-10">
-                    <p class="lead text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque est quasi, quas ipsamexpe ita placeat facilis odio illo ex accusantium eaque itaque officiis et sit. Vero quo, impedit neque.consectetur adipisicing elit</p>
-                    <h4 class="author text-theme-colored2 mb-0">Catherine Grace</h4>
-                    <h6 class="title text-white mt-0 mb-15">Designer</h6>
+                    <p class="lead text-white">I just change my children school to Lucie Schools
+                        through a referee and I was actually scared because my kids has been to
+                        several school but could not get what I want for my kids but when I
+                        came I let the school know my fears,but to my surprise in three weeks
+                        I saw an amazing changes.my boys could get home and attend to his
+                        home task without been forced to,my older kids make out time to read
+                        his note,honestly it was like a magic.Before the end of term my little
+                        boy in Nursery 2 has been able to understand and write 1-100,
+                        in figure 1- 1200 and so on.He takes responsibility to pick up his book,
+                        it is a great relive
+                        for me as a parent,not dragging a child to attempt assignment</p>
+                    <h4 class="author text-theme-colored2 mb-0">LSI parent</h4>
+                      <!--<h6 class="title text-white mt-0 mb-15">Designer</h6>-->
                   </div>
                 </div>
               </div>
               <div class="item">
                 <div class="testimonial-wrapper text-center">
-                  <div class="thumb"><img class="img-thumbnail img-circle" alt="" src="images/testimonials/2.jpg"></div>
+                 <!-- <div class="thumb">
+                      <img class="img-thumbnail img-circle" alt=""
+                           src="images/testimonials/2.jpg"></div>-->
                   <div class="content pt-10">
-                    <p class="lead text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque est quasi, quas ipsamexpe ita placeat facilis odio illo ex accusantium eaque itaque officiis et sit. Vero quo, impedit neque.consectetur adipisicing elit</p>
-                    <h4 class="author text-theme-colored2 mb-0">Catherine Grace</h4>
-                    <h6 class="title text-white mt-0 mb-15">Designer</h6>
+                    <p class="lead text-white">My child is in the High school section,
+                        I saw transformation in one week,I am also a professional teacher
+                        with the government.when I brought him to J.s.s1 in my heart I was
+                        just praying for the best for him but to my greatest surprise,in
+                        one week his dressing and maintainance of uniform has changed,i was
+                        impressed.secondly in his academics,he did not have the habit of settling
+                        down to read,very restless a child but Luci schools restructured his
+                        life at he started reading his note after dinner till he became grounded
+                        in in to the eetent that he ask to put up an alam to wake him up by 4am to read more.
+                        it was a shock to me and very encouraging,God bless Lucie Schools</p>
+                    <h4 class="author text-theme-colored2 mb-0">LSI parent</h4>
+                      <!--<h6 class="title text-white mt-0 mb-15">Designer</h6>-->
                   </div>
                 </div>
               </div>
               <div class="item">
                 <div class="testimonial-wrapper text-center">
-                  <div class="thumb"><img class="img-thumbnail img-circle" alt="" src="images/testimonials/3.jpg"></div>
+                  <!--<div class="thumb"><img class="img-thumbnail img-circle"
+                                          alt="" src="images/testimonials/3.jpg">
+                                          </div>-->
                   <div class="content pt-10">
-                    <p class="lead text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque est quasi, quas ipsamexpe ita placeat facilis odio illo ex accusantium eaque itaque officiis et sit. Vero quo, impedit neque.consectetur adipisicing elit</p>
-                    <h4 class="author text-theme-colored2 mb-0">Catherine Grace</h4>
-                    <h6 class="title text-white mt-0 mb-15">Designer</h6>
+                    <p class="lead text-white">My child joined the secondary arm which
+                        is Lucie High School and in three years he can read musicard note
+                        and interprete correctly and can play piano very well.when I came
+                        into the school I was told my child will have to buy any instrument of his choice and at least he will know how to play two instrument before finishing his condary education I thought it will be impossible becos teaching music and involving normal academics could be difficult,but I now realize that music help them in their studies to concentrate and now in three years he has been playing piano like no body' business and he is picking up giuter now,
+                        thanks to the management of Lucie School for this great idea</p>
+                    <h4 class="author text-theme-colored2 mb-0">LSI Parent </h4>
+                    <!--<h6 class="title text-white mt-0 mb-15">Designer</h6>-->
                   </div>
                 </div>
               </div>
