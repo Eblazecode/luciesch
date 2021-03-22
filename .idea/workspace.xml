@@ -1,445 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64deac61-9a38-4fb6-bbb0-511b9a34fe5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/some.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lucieschweb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lucieschweb.iml" afterDir="false" />
+    <list default="true" id="6355b1a9-1e59-42d9-bf65-73864ef93bfb" name="Default Changelist" comment="Removed unnecessary files for heroku and changed directory">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/.idea/lucieschweb.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/about.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/ajax-load/login-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/ajax-load/register-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/blog-grid-3-column.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/blog-single-left-sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/blog-single-right-sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/blog.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/contact.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/bxslider/images/arrow-left.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/bxslider/images/arrow-right.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/bxslider/images/bx_loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/colors/theme-skin-color-set1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/colors/theme-skin-color-set2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/css-plugin-collections.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/custom-bootstrap-margin-padding.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/elegant-icons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/font-awesome-animation.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/font/ytp-regular.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/fonts/flexslider-icon-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/fonts/flexslider-icon-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/fonts/flexslider-icon-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/fonts/flexslider-icon.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/fonts/flexslider-icond41d.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/icomoon.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/images/ui-icons_444444_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/images/ui-icons_555555_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/images/ui-icons_777620_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/images/ui-icons_777777_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/images/ui-icons_cc0000_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/images/ui-icons_ffffff_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/ionicons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/jquery-ui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/lightbox/close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/lightbox/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/lightbox/next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/lightbox/prev.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/menuzord-megamenu.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/menuzord-skins/menuzord-boxed.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/menuzord-skins/menuzord-rounded-boxed.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/nivolightbox-themes/default/close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/nivolightbox-themes/default/close@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/nivolightbox-themes/default/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/nivolightbox-themes/default/loading@2x.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/nivolightbox-themes/default/next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/nivolightbox-themes/default/next@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/nivolightbox-themes/default/prev.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/nivolightbox-themes/default/prev@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/owl.video.play.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/pe-icon-7-stroke.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/preloader.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/dark_rounded/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/dark_rounded/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/dark_rounded/contentPattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/dark_rounded/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/dark_rounded/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/dark_square/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/dark_square/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/dark_square/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/dark_square/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/default/default_thumb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/default/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/default/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/default/sprite_next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/default/sprite_prev.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/default/sprite_x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/default/sprite_y.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/facebook/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/facebook/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/facebook/contentPatternBottom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/facebook/contentPatternLeft.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/facebook/contentPatternRight.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/facebook/contentPatternTop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/facebook/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/facebook/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/facebook/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/light_rounded/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/light_rounded/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/light_rounded/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/light_rounded/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/light_square/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/light_square/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/prettyPhoto/light_square/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/slick-slider/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/slick-slider/fonts/slick.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/slick-slider/fonts/slick.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/slick-slider/fonts/slick.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/slick-slider/fonts/slick.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/slick-slider/fonts/slickd41d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/stroke-gap-icons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/style-main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/css/utility-classes.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/curriculum.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/elearning.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/elementarysch.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/excurricular.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/ElegantIcons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/ElegantIcons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/ElegantIcons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/ElegantIcons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/ElegantIconsd41d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/Pe-icon-7-strokebb1d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/Pe-icon-7-strokebb1d.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/Pe-icon-7-strokebb1d.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/Pe-icon-7-strokebb1d.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/Pe-icon-7-stroked41d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/Stroke-Gap-Icons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/fontawesome-webfont3e6e.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/fontawesome-webfont3e6e.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/fontawesome-webfont3e6e.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/fontawesome-webfont3e6e.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/fontawesome-webfont3e6e.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/fontawesome-webfontd41d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/glyphicons-halflings-regulard41d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/icomoon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/ionicons790f.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/ionicons790f.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/ionicons790f.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/fonts/ionicons790f.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/form.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/gallery.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/highsch.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/DSC_0638.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/DSC_0668.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/DSC_0672.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/DSC_2541.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/DSC_2548.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/DSC_2573.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/DSC_2577.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/about/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/about/a1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/about/dc1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/about/s1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/about/s2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/about/s3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/apple-touch-icon-114x114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/apple-touch-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/apple-touch-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/bg/bg1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/bg/bg12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/bg/bg2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/bg/bg8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/bg/team-bg1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/blog/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/blog/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/blog/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/blog/author.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/blog/comment1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/blog/comment2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/blog/comment3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/class.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/clients/w1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/clients/w2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/clients/w3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/clients/w4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/clients/w5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/clients/w6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/course/f-course1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/course/f-course2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/course/f-course3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/course/lg6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/course/sm1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/course/sm2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/course/sm3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/course/sm4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/course/sm5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/course/sm6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/course/xs1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/course/xs2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/course/xs3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/course/xs4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/course/xs5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/elearning.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/event/l1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/event/l2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/event/l3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/event/l4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/flags/de.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/flags/en.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/flags/fr.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/flags/it.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/m1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/m2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/m3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/m4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/m5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/m6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/m7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/m8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/s1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/s10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/s11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/s12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/s2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/s3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/s4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/s5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/s6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/s7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/s8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/gallery/s9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/happypupils.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/icons/eduiconss-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/icons/eduiconss-02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/icons/eduiconss-03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/icons/eduiconss-04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/icons/eduiconss-05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/icons/eduiconss-06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/icons/eduiconss-07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/logo-white-footer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/logo-white-footer1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/logo-wide.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/logo-wide1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/logosm-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lprimary.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lu.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lu1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lu2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lu3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lu4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lu5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lu6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lu7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lu8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lucie.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lucie/codecanyon-0M3OsPcq-smart-school-school-management-system.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lucie/lu1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lucie/lu2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lucie/lu3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lucie/lu4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lucie/lu5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lucie/lu6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lucie/lu7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lucie/lu8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lucie/luprop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lucielogo.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/luciepng.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/lucismwide.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/luprop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/luschh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/map-icon-blue.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/map-marker.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/megamenu/megamenu-dropdown.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/megamenu/megamenu-sale-off.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/pattern1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/pattern2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/pattern3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/playarea.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/primary.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/primary2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/primarylower.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/schbuiding.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/shadow-overlay.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/sporty (1).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/sporty (1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/sporty (2).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/sporty (3).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/sporty (4).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/students.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/students.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/studying1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/team/md1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/team/md2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/team/md3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/team/sm-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/team/sm-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/team/sm-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/team/sm-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/team/team-details.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/testimonials/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/testimonials/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/testimonials/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/images/testimonials/quote_arrow.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/includes/footer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/includes/header.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/includes/slider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/index-sp-layout1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/extra-rev-slider-new.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/extra.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/google-map-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/jquery-2.2.4.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/jquery-plugin-collection.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/jquery-ui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/assets/coloredbg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/assets/gridtile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/assets/gridtile_3x3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/assets/gridtile_3x3_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/assets/gridtile_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/assets/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/css/closedhand.cur" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/css/layers.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/css/navigation.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/css/openhand.cur" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/css/settings.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/fonts/revicons/revicons90c6.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/fonts/revicons/revicons90c6.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/fonts/revicons/revicons90c6.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/fonts/revicons/revicons90c6.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/js/extensions/revolution.extension.actions.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/js/extensions/revolution.extension.carousel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/js/extensions/revolution.extension.kenburn.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/js/extensions/revolution.extension.layeranimation.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/js/extensions/revolution.extension.migration.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/js/extensions/revolution.extension.navigation.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/js/extensions/revolution.extension.parallax.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/js/extensions/revolution.extension.slideanims.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/js/extensions/revolution.extension.video.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/js/jquery.themepunch.revolution.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/js/revolution-slider/js/jquery.themepunch.tools.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/library.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/mdwelcome.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/mission.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/page-404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/page-coming-soon.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/page-contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/page-course-details.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/page-course.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/page-events-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/page-faqs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/page-gallery.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/page-service-details.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/page-teachers-details.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/page-teachers-style1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/page-under-construction.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/single-blog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LSI/vision.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-grid-3-column.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-grid-3-column.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-course-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-course-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-course.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-course.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-events-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-events-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-faqs.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-faqs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-teachers-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-teachers-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-teachers-style1.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-teachers-style1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single-blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/single-blog.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/LSI/composer.json</pharConfigPath>
     <execution />
   </component>
-  <component name="ProjectId" id="1nVzGCVh5RLTwOlxJjcSnOkGxb8" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1q67rfNbFEtn9xcCUkLCZTyjWSd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\lucieschweb\LSI\images" />
-      <recent name="C:\wamp64\www\lucieschweb\LSI\images\icons" />
-    </key>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Removed unnecessary files for heroku and changed directory">
+      <created>1616388236415</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616388236415</updated>
+    </task>
     <task active="true" id="Default" summary="Default task">
-      <changelist id="64deac61-9a38-4fb6-bbb0-511b9a34fe5f" name="Default Changelist" comment="" />
-      <created>1611489947282</created>
+      <changelist id="6355b1a9-1e59-42d9-bf65-73864ef93bfb" name="Default Changelist" comment="Removed unnecessary files for heroku and changed directory" />
+      <created>1616388394451</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1611489947282</updated>
-      <workItem from="1611489949956" duration="612000" />
-      <workItem from="1614949591750" duration="1660000" />
-      <workItem from="1614951337770" duration="1350000" />
-      <workItem from="1614953563291" duration="1721000" />
-      <workItem from="1614955413070" duration="1697000" />
-      <workItem from="1615264106723" duration="1409000" />
-      <workItem from="1615265780537" duration="2007000" />
-      <workItem from="1615301749251" duration="1742000" />
-      <workItem from="1615549864359" duration="1216000" />
+      <updated>1616388394451</updated>
+      <workItem from="1616388395277" duration="27000" />
     </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="517" y="324" key="NewPhpFileDialog" timestamp="1615265213020">
-      <screen x="0" y="40" width="1366" height="728" />
-    </state>
-    <state x="517" y="324" key="NewPhpFileDialog/0.40.1366.728@0.40.1366.728" timestamp="1615265213020" />
-    <state x="359" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1615549890884">
-      <screen x="0" y="40" width="1366" height="728" />
-    </state>
-    <state x="359" y="229" key="com.intellij.ide.util.TipDialog/0.40.1366.728@0.40.1366.728" timestamp="1615549890884" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Removed unnecessary files for heroku and changed directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed unnecessary files for heroku and changed directory" />
   </component>
 </project>
