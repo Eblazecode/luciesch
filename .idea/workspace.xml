@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64deac61-9a38-4fb6-bbb0-511b9a34fe5f" name="Default Changelist" comment="Several content to the pages in the app">
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+    <list default="true" id="64deac61-9a38-4fb6-bbb0-511b9a34fe5f" name="Default Changelist" comment="Add a composer.json file for heroku deployment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +71,7 @@
       <workItem from="1616210946251" duration="1772000" />
       <workItem from="1616277099360" duration="340000" />
       <workItem from="1616379743998" duration="1445000" />
-      <workItem from="1616384653196" duration="867000" />
+      <workItem from="1616384653196" duration="1858000" />
     </task>
     <task id="LOCAL-00001" summary="lucie school web 1.0">
       <created>1616199229916</created>
@@ -88,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616277252964</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add a composer.json file for heroku deployment">
+      <created>1616385648336</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616385648336</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +115,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lucie school web 1.0" />
     <MESSAGE value="Several content to the pages in the app" />
-    <option name="LAST_COMMIT_MESSAGE" value="Several content to the pages in the app" />
+    <MESSAGE value="Add a composer.json file for heroku deployment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add a composer.json file for heroku deployment" />
   </component>
 </project>
